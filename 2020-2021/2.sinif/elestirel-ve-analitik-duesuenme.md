@@ -1,0 +1,2 @@
+# Eleştirel ve Analitik Düşünme
+
