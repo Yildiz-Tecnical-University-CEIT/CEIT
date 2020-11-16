@@ -14,7 +14,8 @@
   * [1.Sınıf](2020-2021/1.sinif/README.md)
     * [Eğitimde Bilgi Teknolojileri](2020-2021/1.sinif/egitimde-bilgi-teknolojileri.md)
     * [Öğretim Teknolojilerinin Temelleri](2020-2021/1.sinif/oegretim-teknolojilerinin-temelleri.md)
-    * [Eğitim Felsefesi](2020-2021/1.sinif/egitim-felsefesi.md)
+    * [Eğitim Felsefesi](2020-2021/1.sinif/egitim-felsefesi/README.md)
+      * [Sunular](2020-2021/1.sinif/egitim-felsefesi/sunular.md)
     * [Eğitime Giriş](2020-2021/1.sinif/egitime-giris.md)
   * [2.Sınıf](2020-2021/2.sinif/README.md)
     * [Bilişim Sistemleri Donanımı](2020-2021/2.sinif/bilisim-sistemleri-donanimi.md)
@@ -25,5 +26,4 @@
     * [Eleştirel ve Analitik Düşünme](2020-2021/2.sinif/elestirel-ve-analitik-duesuenme.md)
   * [Bahar](2020-2021/bahar.md)
 * [2021-2022](2021-2022.md)
-* [Untitled](untitled-2.md)
 
