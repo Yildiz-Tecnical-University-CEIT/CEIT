@@ -1,2 +1,0 @@
-# Eğitimde Grafik ve Canlandırma
-

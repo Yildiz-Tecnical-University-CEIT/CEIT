@@ -1,2 +1,0 @@
-# Eğitime Giriş
-

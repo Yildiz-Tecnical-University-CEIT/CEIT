@@ -1,2 +1,0 @@
-# Öğretim İlke ve Yöntemleri
-
