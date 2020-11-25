@@ -1,8 +1,9 @@
 # Table of contents
 
 * [YTU Bilgisayar ve Öğretim Teknolojileri Lisans Programı](README.md)
+* [Dersler](dersler/README.md)
+  * [Ders İntibakları](dersler/ders-intibaklari.md)
 * [Sınıflar](siniflar/README.md)
-  * [Ders İntibakları](siniflar/ders-intibaklari.md)
   * [Hazırlık](siniflar/hazirlik.md)
   * [1](siniflar/1/README.md)
     * [Güz](siniflar/1/guez.md)
